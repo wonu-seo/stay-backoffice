@@ -18,7 +18,7 @@
 | 문서 구조 | `docs/process.md`, `docs/plans/`, `docs/records/` | 이 PR |
 | 기존 문서 이관 | Claude 문서 3건 → `docs/process.md`, `docs/records/1-design-*.md` | 이 PR |
 | CLAUDE.md | 로컬 Claude Code가 규칙 문서를 먼저 읽도록 안내 | 이 PR |
-| 브랜치 보호 | `main` 직접 push 금지, PR 필수, 승인 0명, 관리자도 적용 | Claude (API) |
+| 브랜치 보호 | `main` 직접 push 금지, PR 필수, 승인 0명, 관리자도 적용 | WU (웹 UI, 이 환경에서는 API 쓰기 불가) |
 | Projects 보드 | Todo / In Progress / Review / Done | WU (웹 UI, API로 생성 불가) |
 
 ## 결정한 것
